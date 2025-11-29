@@ -27,12 +27,13 @@
 ## 🎻 Winter of Leningrad
 <p align="center">
   <a href="https://open.spotify.com/playlist/6eDvAPbxX8mdi3HDw27ymd?si=iP2gWsLrR6qXErvUUKp5rg">
-    <img src="CLASSICAL_IMAGE_URL" width="350">
+    <img src="
+https://raw.githubusercontent.com/Michadsch/Micha/main/classical.jpg" width="350">
   </a>
 </p>
 
 ---
-Too Fast For Love
+Too Fast For Love <br>
 Жить стало лучше, жить стало веселее
 ---
 
