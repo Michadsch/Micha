@@ -2,6 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=212121&height=180&section=header&text=Micha&fontSize=48&fontColor=c5c5c5&fontAlignY=40" />
 </p>
 
+[PLAYLIST](playlist.md)
+
+
 ## 🎸 자기 소개
 
 **닉네임: Micha / 미카**  
